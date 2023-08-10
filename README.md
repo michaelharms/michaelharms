@@ -1,4 +1,4 @@
-### Frontend Engineer with a passion for Productivity, Product Management, Design Systems, Component Architectures and AI.
+### Software Engineer with a passion for Productivity, Product Management, Design Systems, Component Architectures and AI.
 
 #### Currently building web stuff at [Joyn](https://joyn.de). Previously at [Lateral](https://lateral.io) and [ApoSync](https://apps.apple.com/de/app/aposync/id1201666052).
 
