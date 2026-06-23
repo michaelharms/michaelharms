@@ -1,3 +1,5 @@
+![Michael Harms — Software Engineer building performant web apps and polished, high-craft UIs](https://hxms-ten.vercel.app/banner)
+
 # Hi, I'm Michael Harms
 
 > Full-stack product engineer (React · Next.js · TypeScript) shipping performant web apps and AI-powered products end to end.
