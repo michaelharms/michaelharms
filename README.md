@@ -99,11 +99,6 @@ I'm a full-stack software engineer with 8+ years building performant web apps an
 - **Senior Frontend Engineer** at **Lateral** — Migrated the frontend to Next.js and engineered a performant text-selection algorithm for an AI research reader (~1,000 users).
 - **Frontend Engineer** at **ApoSync** — Developed the internal CMS web UI for a pharmacy app with 10,000+ users, plus the company website and email templates.
 
-## GitHub stats
-
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelharms&show_icons=true&hide_border=true)](https://github.com/michaelharms)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelharms&layout=compact&hide_border=true)](https://github.com/michaelharms)
-
 ## Connect
 
 - Website: [hxms.dev](https://hxms.dev)
