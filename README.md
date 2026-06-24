@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harmsmichael-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harmsmichael)
 [![Email](https://img.shields.io/badge/Email-michael@hxms.dev-D14836?logo=gmail&logoColor=white)](mailto:michael@hxms.dev)
 
-I'm a full-stack software engineer with 8+ years building performant web apps and polished UIs for products used by millions. I lean frontend but ship features end to end, working closely with design, backend, and data teams. Lately I've been building AI-powered products — LLM pipelines, structured outputs, and end-to-end type safety with TypeScript and Zod.
+I'm a full-stack software engineer with 8+ years building performant web apps and polished UIs for products used by millions. I lean frontend but ship features end to end, working closely with design, backend, and data teams. I care about the product as much as the code — outcome-driven product management, OKRs, and honest customer discovery. Lately I've been building AI-powered products: LLM pipelines, structured outputs, and end-to-end type safety with TypeScript and Zod.
 
 ## Tech stack
 
@@ -32,6 +32,7 @@ I'm a full-stack software engineer with 8+ years building performant web apps an
 ![SQL/NoSQL](https://img.shields.io/badge/SQL%2FNoSQL-336791?logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
+![CSS-in-JS](https://img.shields.io/badge/CSS--in--JS-DB7093?logo=styledcomponents&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?logo=vercel&logoColor=white)
@@ -50,7 +51,10 @@ I'm a full-stack software engineer with 8+ years building performant web apps an
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 ![Biome](https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-555555?logo=husky&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?logo=v0&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white)
 
 **Services**
 
@@ -59,12 +63,14 @@ I'm a full-stack software engineer with 8+ years building performant web apps an
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?logo=chromatic&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
+![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-405BFF?logo=launchdarkly&logoColor=white)
 
 **Methodologies**
 
@@ -85,6 +91,18 @@ I'm a full-stack software engineer with 8+ years building performant web apps an
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555555)
 ![DDD](https://img.shields.io/badge/DDD-555555)
 ![TDD](https://img.shields.io/badge/TDD-555555)
+![Feature Flags](https://img.shields.io/badge/Feature_Flags-555555)
+
+**Product**
+
+![Product Discovery](https://img.shields.io/badge/Product_Discovery-555555)
+![Customer Discovery](https://img.shields.io/badge/Customer_Discovery-555555)
+![OKRs](https://img.shields.io/badge/OKRs-555555)
+![KPIs](https://img.shields.io/badge/KPIs-555555)
+![RICE](https://img.shields.io/badge/RICE-555555)
+![Impact/Effort](https://img.shields.io/badge/Impact%2FEffort-555555)
+![Strategy Maps](https://img.shields.io/badge/Strategy_Maps-555555)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-555555)
 
 ## Featured projects
 
