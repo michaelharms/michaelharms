@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harmsmichael-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harmsmichael)
 [![Email](https://img.shields.io/badge/Email-michael@hxms.dev-D14836?logo=gmail&logoColor=white)](mailto:michael@hxms.dev)
 
-I'm a full-stack software engineer with 8+ years building performant web apps and polished UIs for products used by millions. I lean frontend but ship features end to end, collaborating closely with design, backend, and data teams. Beyond the code, I care about the product itself — outcome-driven product management, OKRs, and honest customer discovery. Recently I've focused on AI-powered products: LLM pipelines, structured outputs, and end-to-end type safety with TypeScript and Zod.
+I'm a full-stack software engineer with 8+ years building performant web apps and polished UIs for products used by millions. I lean frontend but ship features end to end, collaborating closely with design, backend, and data teams. Beyond the code, I care about the product itself — outcome-driven product management, OKRs, and honest customer discovery. Recently I've focused on AI-powered side projects: LLM pipelines, structured outputs, and end-to-end type safety with TypeScript and Zod.
 
 ## Tech stack
 
@@ -85,7 +85,7 @@ I'm a full-stack software engineer with 8+ years building performant web apps an
 
 | Project | What it is | Link |
 |---------|-----------|------|
-| Kinetic | AI fitness app that turns a structured profile into a validated week-by-week workout plan via an LLM pipeline with type-safe, schema-backed outputs | [kinetic.hxms.dev](https://kinetic.hxms.dev) |
+| Kinetic | AI fitness app that turns a structured profile into a week-by-week workout plan via an LLM pipeline with type-safe, schema-backed outputs | [kinetic.hxms.dev](https://kinetic.hxms.dev) |
 | Drool | Chrome extension and web app for capturing, organizing, and sharing screenshots, built on an end-to-end typesafe tRPC monorepo | [drool.cool](https://drool.cool) |
 | NXTLVL | Personal OKR goal-tracking app with quantified progress and a regression-based forecast of your trajectory to target | [nxtlvl.so](https://nxtlvl.so) |
 
