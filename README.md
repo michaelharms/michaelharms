@@ -84,10 +84,10 @@ I'm a full-stack engineer with 8+ years of React, TypeScript and Node.js. I come
 
 ## Experience
 
-- **Senior Product Engineer** at **Moonscale**: Owned the internal admin used to review AI-video quality and track API usage and user-created assets (~200k€ project generating millions of videos)
-- **Software Engineer** at **Joyn**: Led the web-team side of a subscription rebuild on a streaming app with ~4 million monthly users
-- **Senior Frontend Engineer** at **Lateral**: Engineered a grid-based text-selection algorithm for the document reader on OCR page images
-- **Frontend Engineer** at **ApoSync**: Shipped the CMS UI that supplied content for 10,000 users of the pharmacy app
+- **Senior Product Engineer** at **Moonscale**: Moonscale is a B2B platform for real-time AI sales avatars that run video calls to automate pitching and qualifying buyers. Owned the frontend of the call product: the call interface, AI assets, settings and analytics. Built full-stack features end to end, including an internal admin tool.
+- **Software Engineer** at **Joyn**: Joyn is a German streaming platform with around 4 million monthly active users. Built UI for the joyn.de web app across content discovery, subscriptions and brand partnerships.
+- **Senior Frontend Engineer** at **Lateral**: Lateral was a research tool with around 1,000 users. Its AI surfaced relevant passages across a document corpus. Shaped the frontend and the UX of those AI-based features.
+- **Frontend Engineer** at **ApoSync**: ApoSync is a compliance, news and training app for German pharmacy teams, with 2,200 pharmacies and 10,000 registered users. Shipped the CMS UI, the company website and the email templates.
 
 ## Connect
 
